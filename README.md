@@ -1,6 +1,9 @@
 # JKTagListView
 
 [![Version](https://img.shields.io/cocoapods/v/JKTagListView.svg?style=flat)](http://cocoapods.org/pods/JKTagListView)
+[![License](https://img.shields.io/cocoapods/l/JKTagListView.svg?style=flat)](http://cocoapods.org/pods/JKTagListView)
+[![Platform](https://img.shields.io/cocoapods/p/JKTagListView.svg?style=flat)](http://cocoapods.org/pods/JKTagListView)
+
 
 ## Installation
 
