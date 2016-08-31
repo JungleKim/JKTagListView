@@ -18,8 +18,18 @@ pod "JKTagListView"
 
 ```objc
 JKTagListView *tagListView = [[JKTagListView alloc] init];
-[tagListView addTag:@"JungleKim"]
+
+tagListView.tagBackgroundColor = [UIColor whiteColor];
+tagListView.tagBorderWidth = .5f;
+tagListView.tagBorderColor = [UIColor grayColor];
+tagListView.tagCornerRadius = 5.0f;
+
+[tagListView addTag:@"JungleKim"];
+[tagListView addTags:@["Snorlax", "Pikachu"]];
 ```
+
+## TODO
+1. TagView Tapped Event
 
 ## Author
 
